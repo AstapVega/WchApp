@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//APP/main.c=GBK
+encoding//APP/test_dtm.c=GBK
+encoding//LIB/CH58xBLE_LIB.h=UTF-8
+encoding//StdPeriphDriver/CH58x_uart1.c=GBK
